@@ -1,0 +1,68 @@
+.box{
+    margin:50px;
+}
+.grocery{
+    margin:  50px; 
+}
+.form-label{
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    color: green;
+    font-size: 4rem;
+}
+.hello{
+    background-color: lightgreen;
+
+}
+.container{
+    display: flex;
+    
+}
+.clear-btn{
+
+    color: orange;
+    margin-left: 60px;
+    visibility: hidden;
+}
+.grocery-list{
+   margin-left: 60px;
+   
+}
+.col{
+    padding: -37868px;
+}
+.show-container{
+    visibility: visible;
+}
+.container1{
+        display: flex;
+    justify-content: center;
+
+}
+.col{
+   display: flex;
+   align-items: center;
+    
+}
+.edit{
+    align-items: center;
+    position: absolute;
+    right: 12px;
+ 
+}
+.bin{
+    
+    position: absolute;
+    right: 68px;
+}
+.grocery-items{
+        display: flex;
+    align-items: center;
+    position: relative;
+    background-color: beige;
+    margin-right: 60px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+
+}
